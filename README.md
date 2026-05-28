@@ -17,12 +17,7 @@ Upload any CSV → AI analyses it instantly → Get business insights in seconds
 - 🎯 Identifies patterns, anomalies and business insights
 - ⚡ Powered by Google Gemini 2.5 Flash
 
-## Demo Screenshots
-### App Interface
-![App Interface](screenshot1.png)
 
-### AI Analysis on 150,000 Records
-![AI Analysis](screenshot2.png)
 
 ## Tech Stack
 - Python
